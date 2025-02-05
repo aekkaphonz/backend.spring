@@ -71,7 +71,7 @@ public class UserEntity {
     private String locationmachinenumber;
 
     @JsonProperty("tokenId")
-    @Column(name = "tokenid")
+    @Column(name = "tokenid", nullable = false)
     private String tokenid;
 
 
