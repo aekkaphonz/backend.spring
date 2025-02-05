@@ -28,6 +28,7 @@ mvn spring-boot:run
 - How to Integrate Swagger in Spring Boot 3
 [Click](https://youtu.be/8weBVUXLtog?si=hp5535jQ5P08wN0D)
 - Connect a PostgreSQL database to a Spring Boot [Click](https://youtu.be/ltvRsnka7Mo?si=qtXn54arwFPFnMfU)
+- Response Handling Tutorial [Click]([https://youtu.be/ltvRsnka7Mo?si=qtXn54arwFPFnMfU](https://youtu.be/cI6VlGDLH5s?si=pB1sy5SphL-Axuyb))
 
 ## Sitemap
 
